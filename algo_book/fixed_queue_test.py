@@ -1,5 +1,5 @@
 from enum import Enum
-from fixed_queue import FixedQueue
+from algo_book.fixed_queue import FixedQueue
 
 Menu = Enum('Menu', [
     'inque',

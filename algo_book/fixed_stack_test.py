@@ -1,5 +1,5 @@
 from enum import Enum
-from fixed_stack import FixedStack
+from algo_book.fixed_stack import FixedStack
 
 Menu = Enum('Menu', ['push', 'pop', 'peek', 'search', 'dump', 'exit'])
 
